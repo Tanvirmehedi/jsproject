@@ -1,0 +1,22 @@
+body {
+  padding: 0;
+  background-color: aqua;
+  outline: 0;
+  height: 80vh;
+  overflow-x: hidden;
+  text-align: center;
+  margin: 0;
+}
+
+div {
+  background: #ec7200;
+}
+
+div h1 {
+  text-transform: capitalize;
+}
+
+div h5 {
+  color: azure;
+}
+/*# sourceMappingURL=style.css.map */

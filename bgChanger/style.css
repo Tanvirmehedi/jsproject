@@ -1,0 +1,7 @@
+body {
+  text-align: center;
+  background: linear-gradient(to right, rgb(79, 87, 109), red);
+}
+h3 {
+  color: #fff;
+}

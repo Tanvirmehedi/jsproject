@@ -1,0 +1,77 @@
+* {
+  outline: 0;
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+body {
+  padding: 1rem;
+  color: #fff;
+  background: #383737;
+  overflow-x: hidden;
+}
+
+.btn {
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  border: 1px silid #414040;
+}
+
+#header-top .header-text {
+  font-size: 20px;
+  display: block;
+  text-align: right;
+}
+
+#banner-text .banner-heading {
+  text-align: center;
+  font-weight: bold;
+  font-size: 3rem;
+}
+
+#banner-text .qusn-mark {
+  text-align: center;
+  font-size: 7rem;
+}
+
+#inpit-box {
+  padding: 2rem 0;
+  text-align: center;
+}
+
+#inpit-box .number-input-box {
+  width: 6rem;
+  text-align: left;
+  height: 3rem;
+  background-color: #222;
+  color: #fff;
+  font-size: 2rem;
+  padding: 4px;
+  font-weight: bold;
+  border: 2px solid #706f6f;
+}
+
+#inpit-box .input-text {
+  text-align: right;
+  margin-left: 8rem;
+}
+
+#input-button {
+  text-align: center;
+}
+
+#input-button .input-btn {
+  margin-right: 8rem;
+}
+/*# sourceMappingURL=style.css.map */

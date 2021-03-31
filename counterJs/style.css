@@ -1,0 +1,33 @@
+body {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  overflow: hidden;
+  text-align: center;
+}
+div {
+  margin: auto;
+}
+
+.btn {
+  color: #fff;
+  font-size: 1rem;
+  margin-left: 1.5rem;
+  background-color: #222;
+  border: 1px solid rgb(129, 129, 129);
+  padding: 10px 12px;
+  border-radius: 5px;
+  letter-spacing: 3px;
+  cursor: pointer;
+}
+.btn:hover {
+  color: rgb(100, 100, 100);
+  transition: all 0.5s linear;
+  border-radius: 6px;
+}
+p {
+  font-size: 30px;
+}
+h1 {
+  letter-spacing: 3px;
+}
